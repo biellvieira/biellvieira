@@ -1,4 +1,4 @@
-### Graduando em Mecatrônica Industrial na Fatec Santo André (tecnólogo), músico nas horas vagas e apaixonado por tecnologia.![html](https://user-images.githubusercontent.com/62109597/134576749-16ca94dc-fec7-45fe-84fb-cb090cc6630f.png)![python](https://user-images.githubusercontent.com/62109597/134576770-34db5fc9-fb41-4b89-b344-617cd640de70.png)![csharp](https://user-images.githubusercontent.com/62109597/134576779-5d785825-3714-42a3-982b-b8147e70f3f3.png)
+### Graduando em Mecatrônica Industrial na Fatec Santo André (tecnólogo), músico nas horas vagas e apaixonado por tecnologia.                                                ![html](https://user-images.githubusercontent.com/62109597/134576749-16ca94dc-fec7-45fe-84fb-cb090cc6630f.png)             ![python](https://user-images.githubusercontent.com/62109597/134576770-34db5fc9-fb41-4b89-b344-617cd640de70.png)         ![csharp](https://user-images.githubusercontent.com/62109597/134576779-5d785825-3714-42a3-982b-b8147e70f3f3.png)
 
 
 
