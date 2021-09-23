@@ -1,4 +1,4 @@
-### Hi there 👋
+### Graduando em Mecatrônica Industrial na Fatec Santo André (tecnólogo), músico nas horas vagas e apaixonado por tecnologia.
 
 <!--
 **biellvieira/biellvieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
